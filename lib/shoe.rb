@@ -10,7 +10,7 @@ class Shoe
   def cobble
     puts "Your shoe is as good as new!"
     @condition = "new"
-=======
+  end
   attr_accessor :color
   attr_accessor :size
   attr_accessor :material
